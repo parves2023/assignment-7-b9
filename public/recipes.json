@@ -1,0 +1,88 @@
+{
+  "recipes": [
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "A classic Italian pasta dish with a rich, flavorful sauce.",
+      "ingredients": [
+        "400g spaghetti",
+        "300g ground beef",
+        "200g tomato sauce",
+        "1 onion"
+      ],
+      "preparing_time": "30 min",
+      "calories": "600 calories",
+      "recipe_image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Chicken Alfredo",
+      "short_description": "Creamy Alfredo sauce served with tender chicken and fettuccine pasta.",
+      "ingredients": [
+        "500g fettuccine",
+        "200g chicken breast",
+        "100g Parmesan cheese",
+        "200ml cream"
+      ],
+      "preparing_time": "25 min",
+      "calories": "700 calories",
+      "recipe_image": "https://images.pexels.com/photos/6834165/pexels-photo-6834165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir Fry",
+      "short_description": "A quick and healthy stir fry with fresh vegetables.",
+      "ingredients": [
+        "200g broccoli",
+        "150g bell peppers",
+        "100g carrots",
+        "100g snap peas"
+      ],
+      "preparing_time": "20 min",
+      "calories": "250 calories",
+      "recipe_image": "https://images.pexels.com/photos/5711391/pexels-photo-5711391.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Beef Tacos",
+      "short_description": "Flavorful beef tacos with fresh toppings.",
+      "ingredients": [
+        "300g ground beef",
+        "Taco shells",
+        "Lettuce",
+        "Tomatoes"
+      ],
+      "preparing_time": "15 min",
+      "calories": "500 calories",
+      "recipe_image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Delicious homemade cookies with chocolate chips.",
+      "ingredients": [
+        "200g flour",
+        "100g sugar",
+        "100g brown sugar",
+        "100g butter"
+      ],
+      "preparing_time": "25 min",
+      "calories": "150 calories",
+      "recipe_image": "https://images.pexels.com/photos/6834165/pexels-photo-6834165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Caprese Salad",
+      "short_description": "A fresh salad with mozzarella, tomatoes, and basil.",
+      "ingredients": [
+        "200g mozzarella cheese",
+        "300g tomatoes",
+        "Fresh basil leaves",
+        "Olive oil"
+      ],
+      "preparing_time": "10 min",
+      "calories": "300 calories",
+      "recipe_image": "https://images.pexels.com/photos/5711391/pexels-photo-5711391.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    }
+  ]
+}
